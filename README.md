@@ -1,5 +1,5 @@
 # MBTest
-# Mercedes-Benz Test Bench Optimization
+# Mercedes-Benz Test Bench Optimization-Based Question
 
 ## Overview
 This project focuses on reducing the time a Mercedes-Benz car spends on the test bench. Using historical data from Mercedes-Benz, we build a model to predict the duration of the test phase. This repository contains the data preprocessing and machine learning steps taken to develop an XGBoost regression model capable of making these predictions.
